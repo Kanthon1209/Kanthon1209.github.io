@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>Kanthon Kit Repository</title>
+    <link href="/2021/02/10/kit/"/>
+    <url>/2021/02/10/kit/</url>
+    
+    <content type="html"><![CDATA[<h2 id="Navigation"><a href="#Navigation" class="headerlink" title="Navigation"></a>Navigation</h2><p>These are  the tools you might  use in production</p><h3 id="Rename-py"><a href="#Rename-py" class="headerlink" title="Rename.py"></a>Rename.py</h3><p>usage:<br>Batch renaming of files in a specific folder</p><p><a href="https://github.com/Kanthon1209/Repository/blob/master/rename.py">Rename.py</a></p><h3 id="Translator-py"><a href="#Translator-py" class="headerlink" title="Translator.py"></a>Translator.py</h3><p>usage:<br>A Translation tool with a quick startup(Use youdao.com)<br>features:<br>creat one “vocabulary.txt” file at where the tool is located and add your search history into “vocabulary.txt” automatically</p><p><a href="https://github.com/Kanthon1209/Repository/blob/master/translator.py">Translator.py</a></p><h4 id="Download-All-tools-here"><a href="#Download-All-tools-here" class="headerlink" title="Download All tools here"></a>Download All tools here</h4><p><a href="https://github.com/Kanthon1209/Repository">Download All</a></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Some notes for Clang</title>
+    <link href="/2021/02/07/Note(Clang)/"/>
+    <url>/2021/02/07/Note(Clang)/</url>
+    
+    <content type="html"><![CDATA[<p>int             整型数据<br>character       字符型(占用一个字节)<br>float           单精度浮点型<br>double          双精度浮点型</p><p>变量名只能是英文字母，数字和下划线组成，必须以字母或者下划线开头</p><p>C语言大小写敏感</p><p>不能使用关键字作为变量名</p><h2 id="C语言中的关键字-命名变量时不可使用"><a href="#C语言中的关键字-命名变量时不可使用" class="headerlink" title="C语言中的关键字(命名变量时不可使用)"></a>C语言中的关键字(命名变量时不可使用)</h2><h3 id="ANSI-C-American-National-Standards-Institution-定义的32个关键字"><a href="#ANSI-C-American-National-Standards-Institution-定义的32个关键字" class="headerlink" title="ANSI C (American National Standards Institution)定义的32个关键字"></a>ANSI C (American National Standards Institution)定义的32个关键字</h3><p>auto<br>break<br>case<br>char<br>const<br>continue<br>default<br>do<br>double<br>else<br>enum<br>extern<br>float<br>for<br>goto<br>if<br>int<br>long<br>register<br>return<br>short<br>signed<br>sizeof<br>static<br>struct<br>switch<br>typedef<br>union<br>unsigned<br>vooid<br>volatile<br>while</p><h3 id="ISO-International-Organization-for-Standardization-发布的C99标准增加的5个关键字"><a href="#ISO-International-Organization-for-Standardization-发布的C99标准增加的5个关键字" class="headerlink" title="ISO(International Organization for Standardization)发布的C99标准增加的5个关键字"></a>ISO(International Organization for Standardization)发布的C99标准增加的5个关键字</h3><p>inline<br>restrict<br>_Bool<br>_Complex<br>_Imaginary</p><h3 id="ISO-International-Orgnization-for-Standardization-发布的C11标准增加的7个关键字"><a href="#ISO-International-Orgnization-for-Standardization-发布的C11标准增加的7个关键字" class="headerlink" title="ISO(International Orgnization for Standardization)发布的C11标准增加的7个关键字"></a>ISO(International Orgnization for Standardization)发布的C11标准增加的7个关键字</h3><p>_Alignas<br>_Alignof<br>_Atomic<br>_Static_assert<br>_Noreturn<br>_Thread_local<br>_Generic</p><h1 id="stdio-h"><a href="#stdio-h" class="headerlink" title="stdio.h"></a>stdio.h</h1><p>standard input output.header<br>标准输入输出头文件</p><h1 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h1><p>VS Code 打开特定语言文件时，右下角可以选择编码</p><p>当文件出现乱码时，则可能是编码出现问题</p><h1 id="数据类型"><a href="#数据类型" class="headerlink" title="数据类型"></a>数据类型</h1><h2 id="基本类型"><a href="#基本类型" class="headerlink" title="基本类型"></a>基本类型</h2><p>int     整数类型<br>short int<br>long int<br>long long int</p><p>float   浮点数类型<br>double  浮点数类型<br>long double</p><p>char    字符类型<br>_Bool   布尔类型<br>enum    枚举类型</p><h1 id="注意-1"><a href="#注意-1" class="headerlink" title="注意"></a>注意</h1><p>显示warning</p><p>程序是可以通过的</p><p>显示error<br>程序是不可以运行的</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Vocabulary Repository</title>
+    <link href="/2021/02/07/vocabulary/"/>
+    <url>/2021/02/07/vocabulary/</url>
+    
+    <content type="html"><![CDATA[<p>toggle<br>切换<br>开关<br>拴牢<br>系紧</p><p>config<br>配置<br>布局<br>显示配置信息命令</p><p>convert<br>转换<br>改变信仰</p><p>palette<br>面板/画板/调色板</p><p>panel<br>面板<br>仪表盘<br>嵌板<br>座谈小会<br>全体陪审员</p><p>instance<br>实例<br>例子<br>情况<br>建议</p><p>for instance<br>举个例子</p><p>instant<br>即时<br>立即的<br>紧急的<br>急迫的<br>瞬间<br>片刻</p><p>comment<br>注释/注解</p><p>comment<br>评价</p><p>navigation<br>航行<br>航海<br>导航<br>导引<br>领航</p><p>navi(abbr)</p><p>navigate</p><p>navy<br>海军</p><p>attribute<br>属性<br>特质<br>归属<br>把…归于</p><p>compile<br>编译</p><p>sharp<br>井号</p><p>terminal<br>终端</p><p>implicitly<br>含蓄地，暗中地</p><p>invoke<br>调用，祈求，引起，恳求</p><p>frontend<br>前端</p><p>property<br>财产<br>房产</p><p>power<br>指数</p><p>exponential<br>指数的</p><p>exponentially<br>指数型的<br>激增的</p><p>converse<br>转化</p><p>conversion<br>转化</p><p>conversation<br>对话</p><p>implicit<br>隐式的</p><p>overflow in implicit constant conversion<br>隐式常量转化中的溢出</p><p>constant<br>常量</p><p>overflow<br>溢出</p><p>insert<br>插入</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Welcome To My Zone</title>
+    <link href="/2021/01/30/essay_2/"/>
+    <url>/2021/01/30/essay_2/</url>
+    
+    <content type="html"><![CDATA[<h2 id="Hey-there-Thank-you-for-visiting-my-zone"><a href="#Hey-there-Thank-you-for-visiting-my-zone" class="headerlink" title="Hey there!Thank you for visiting my zone"></a>Hey there!Thank you for visiting my zone</h2><p>Just a zone , nothing here…</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Kanthon&#39;s test</title>
+    <link href="/2021/01/29/Foremost/"/>
+    <url>/2021/01/29/Foremost/</url>
+    
+    <content type="html"><![CDATA[<p>It’s just Kanthon’s test passage </p><p><a href="https://baidu.com/">如果有什么不懂的话点这里</a></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
